@@ -4,6 +4,8 @@
 ### Have you ever need _my_ hand to poke and prod and have make different hand signs for your website?
 ### Look no further, your search has come to an end 🕺🌵
 
+![EXample](example.gif)
+
 Originally made in vanilla Javascript as a silly school project this was a fun conversion practice into React
 
 ## Preinstall
@@ -59,3 +61,10 @@ console.log(Signs.getSignNames()) // ["Hand Wave", "The Finger", "Peace Sign"...
 
 <Hand startSign={Signs.getSignWithName("Hand Wave")} />
 ```
+
+## Todo
+* Use your own hand images
+* Add transparency to stock images
+* Redo stock images from jpgs taken in 2002 on a cheapy little Pentax 
+* _Every_ hand sign known to humans
+* Option to disable finger toggle
