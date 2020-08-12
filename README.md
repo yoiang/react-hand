@@ -1,7 +1,7 @@
 # react-hand
 
 ### Have you ever needed a hand that you could poke and prod and have make different hand signs for your website? 
-### Have you ever need _my_ hand to poke and prod and have make different hand signs for your website?
+### Have you ever needed _my_ hand to poke and prod and have make different hand signs for your website?
 ### Look no further, your search has come to an end 🕺🌵
 
 ![EXample](example.gif)
