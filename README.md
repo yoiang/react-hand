@@ -6,6 +6,13 @@
 
 Originally made in vanilla Javascript as a silly school project this was a fun conversion practice into React
 
+## Preinstall
+
+Configure NPM for [Adorkable](https://github.com/Adorkable) scoped packages
+```sh
+npm config set @adorkable:registry https://npm.pkg.github.com/
+```
+
 ## Install
 
 npm
