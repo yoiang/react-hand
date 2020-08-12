@@ -1,8 +1,8 @@
 # react-hand
 
-## Have you ever needed a hand that you could poke and prod and have make different hand signs for your website? 
-## Have you ever need _my_ hand to poke and prod and have make different hand signs for your website?
-## Look no further, your search has come to an end 🕺🌵
+### Have you ever needed a hand that you could poke and prod and have make different hand signs for your website? 
+### Have you ever need _my_ hand to poke and prod and have make different hand signs for your website?
+### Look no further, your search has come to an end 🕺🌵
 
 Originally made in vanilla Javascript as a silly school project this was a fun conversion practice into React
 
