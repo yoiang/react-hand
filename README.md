@@ -10,35 +10,35 @@ Originally made in vanilla Javascript as a silly school project this was a fun c
 
 ## Preinstall
 
-Configure NPM for [Adorkable](https://github.com/Adorkable) scoped packages
+Configure NPM for my Github scoped packages
 ```sh
-npm config set @adorkable:registry https://npm.pkg.github.com/
+npm config set @yoiang:registry https://npm.pkg.github.com/
 ```
 
 ## Install
 
 npm
 ```sh
-npm install @adorkable/react-hand
+npm install @yoiang/react-hand
 ```
 
 yarn
 ```sh
-yarn add @adorkable/react-hand
+yarn add @yoiang/react-hand
 ```
 
 ## Usage
 
 Javascript
 ```js
-const Hand = require('@adorkable/react-hand')
+const Hand = require('@yoiang/react-hand')
 ...
 <Hand />
 ```
 
 Typescript
 ```ts
-import Hand from '@adorkable/react-hand'
+import Hand from '@yoiang/react-hand'
 ...
 <Hand />
 ```
@@ -55,7 +55,7 @@ import Hand from '@adorkable/react-hand'
 
 `startSign` - **Sign** (_undefined_) - Start off with a specific hand sign
 ```js
-import Hand, { Signs } from '@adorkable/react-hand'
+import Hand, { Signs } from '@yoiang/react-hand'
 
 console.log(Signs.getSignNames()) // ["Hand Wave", "The Finger", "Peace Sign"...]
 
